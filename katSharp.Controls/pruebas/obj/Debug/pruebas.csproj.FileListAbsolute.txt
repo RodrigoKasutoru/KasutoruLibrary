@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\pruebas.exe.config
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\pruebas.exe
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\pruebas.pdb
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\katSharp.Componets.dll
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\katSharp.Controls.dll
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\katSharp.Componets.pdb
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\bin\Debug\katSharp.Controls.pdb
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\obj\Debug\pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\obj\Debug\pruebas.Form1.resources
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\obj\Debug\pruebas.Properties.Resources.resources
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\obj\Debug\pruebas.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\obj\Debug\pruebas.exe
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\pruebas\obj\Debug\pruebas.pdb

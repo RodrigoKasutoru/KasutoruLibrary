@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "katSharp.Controls", "katSharp.Controls\katSharp.Controls.csproj", "{1DF9AF4C-B9D5-4587-BAB9-0D2250E77951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "katSharp.Componets", "katSharp.Componets\katSharp.Componets.csproj", "{8779A9F9-8F68-4894-81DA-50D5311BF975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebas", "pruebas\pruebas.csproj", "{51C6BA18-32D9-4DA9-AC4B-81D3F83CF338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF9AF4C-B9D5-4587-BAB9-0D2250E77951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF9AF4C-B9D5-4587-BAB9-0D2250E77951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF9AF4C-B9D5-4587-BAB9-0D2250E77951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF9AF4C-B9D5-4587-BAB9-0D2250E77951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8779A9F9-8F68-4894-81DA-50D5311BF975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8779A9F9-8F68-4894-81DA-50D5311BF975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8779A9F9-8F68-4894-81DA-50D5311BF975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8779A9F9-8F68-4894-81DA-50D5311BF975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C6BA18-32D9-4DA9-AC4B-81D3F83CF338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C6BA18-32D9-4DA9-AC4B-81D3F83CF338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C6BA18-32D9-4DA9-AC4B-81D3F83CF338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C6BA18-32D9-4DA9-AC4B-81D3F83CF338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

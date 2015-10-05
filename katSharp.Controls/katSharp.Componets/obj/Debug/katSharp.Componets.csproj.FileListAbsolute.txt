@@ -1,0 +1,5 @@
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\katSharp.Componets\bin\Debug\katSharp.Componets.dll
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\katSharp.Componets\bin\Debug\katSharp.Componets.pdb
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\katSharp.Componets\obj\Debug\katSharp.Componets.dll
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\katSharp.Componets\obj\Debug\katSharp.Componets.pdb
+C:\Users\Rodrigo\Videos\katSharp\katSharp.Controls\katSharp.Componets\obj\Debug\katSharp.Componets.csprojResolveAssemblyReference.cache
